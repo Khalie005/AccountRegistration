@@ -1,0 +1,17 @@
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.FrmConfirm.resources
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.FrmRegistration.resources
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.csproj.GenerateResource.cache
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.AssemblyInfoInputs.cache
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.AssemblyInfo.cs
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.csproj.CoreCompileInputs.cache
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\bin\Debug\net10.0-windows\AccountRegistration1.exe
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\bin\Debug\net10.0-windows\AccountRegistration1.deps.json
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\bin\Debug\net10.0-windows\AccountRegistration1.runtimeconfig.json
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\bin\Debug\net10.0-windows\AccountRegistration1.dll
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\bin\Debug\net10.0-windows\AccountRegistration1.pdb
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.dll
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\refint\AccountRegistration1.dll
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.pdb
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\AccountRegistration1.genruntimeconfig.cache
+C:\Users\allia\source\repos\AccountRegistration1\AccountRegistration1\obj\Debug\net10.0-windows\ref\AccountRegistration1.dll
